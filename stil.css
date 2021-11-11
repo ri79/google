@@ -1,0 +1,67 @@
+.box
+{
+    margin-top: -33px;
+   width: 950px;
+   height: 67px;
+   background-color:#EEEEEE;
+   margin-left: 150px;
+  margin-right: 200px;
+   margin-top: -19px;
+ 
+   
+}
+.search
+{
+    padding-top: 1%;
+    width: 350px;
+    height: 10px;
+    background-color:white;
+    margin-left: 320px;
+    border-width: 1px ;border-style:ridge;
+    margin-top: -17px;
+    
+    
+}
+
+
+.blue
+{
+    width: 950px;
+    height: 80px;
+    margin-left: 150px;
+    margin-top: -10px;
+    
+}
+.help
+{
+    width: 340px;
+    height: 80px;
+    background-color:#7EE5DA;
+    float: left;
+  margin-right: 3px;
+  
+    
+}
+.help1
+{
+    width: 240px;
+    height: 75px;
+    background-color: #70CCC2;
+    margin-left: 5px;
+    float: left;
+    font-size: 13px;
+    padding-top: 5px;
+    margin-left: -1px
+   
+}
+.help2
+{
+    width: 365px;
+    height: 80px;
+    background-color:#62B3AA;
+    margin-left: 584px;
+ 
+ 
+   
+    
+}
